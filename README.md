@@ -1,12 +1,9 @@
-### Hi there 👋 I am Maneesa Sahu
-A Engineer passionate about learning new things. 
+<h1 align="center">Hi 👋, I'm Maneesa Sahu</h1>
+<h3 align="center">A passionate Software tester from India</h3>
 
-- 🔭 I’m currently working on Manual Testing in Tata Consultancy Services
-- 🌱 I’m currently learning Automation Testing,Tableau,SQL.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
