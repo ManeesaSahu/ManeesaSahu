@@ -1,12 +1,8 @@
 ### Hi there 👋 I am Maneesa Sahu
-A Engineer passionate about learning new things.  
+A Engineer passionate about learning new things. 
 
-**ManeesaSahu/ManeesaSahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Manual Testing
-- 🌱 I’m currently learning Automation Testing
+- 🔭 I’m currently working on Manual Testing in Tata Consultancy Services
+- 🌱 I’m currently learning Automation Testing,Tableau,SQL.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
